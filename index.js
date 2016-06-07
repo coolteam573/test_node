@@ -1,3 +1,6 @@
+
+console.log('Node app is running on port');
+process.exit(1);
 var express = require('express');
 var app = express();
 
